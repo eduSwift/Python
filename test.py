@@ -1,6 +1,4 @@
-
-print("Give me your age: ")
-age = input()
+age = input("Give me your age: ")
 # 🚨 Don't change the code above 👆
 # Write your code below this line 👇
 your_life_in_weeks = 90 * 52 - int(age) * 52
