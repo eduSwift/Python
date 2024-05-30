@@ -17,3 +17,17 @@ Easy to Use: Simple and straightforward command-line interface.
 
 #############################          #####################################
 
+
+2. BMI Calculator
+The BMI Calculator is a Python program that helps you calculate your Body Mass Index (BMI). This tool is useful for quickly determining if your weight is in a healthy range based on your height.
+
+Features
+
+User Input: Enter your height and weight to calculate your BMI.
+BMI Calculation: Computes BMI using the standard formula.
+Health Assessment: Provides a health assessment based on your BMI.
+
+
+#############################          #####################################
+
+
