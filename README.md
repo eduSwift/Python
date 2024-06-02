@@ -30,4 +30,18 @@ Health Assessment: Provides a health assessment based on your BMI.
 
 #############################          #####################################
 
+3. Life in Weeks
+The Life in Weeks project is a Python program designed to provide a visual representation of the weeks left in your life based on your current age and life expectancy. This can be a powerful motivator for making the most out of your time.
+
+Features
+
+User Input: Enter your current age and life expectancy.
+Week Calculation: Calculates the number of weeks lived and weeks remaining.
+Visual Representation: Provides a visual grid to represent the weeks of your life.
+
+
+#############################          #####################################
+
+
+
 
