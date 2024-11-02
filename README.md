@@ -48,6 +48,15 @@ Split the Bill: Optionally allows you to split the total bill among multiple peo
 
 ############### ############### ############### ###############
 
+Python Pizza
+The Python Pizza project is a playful Python program that allows you to create your own virtual pizza with custom toppings and sizes. Whether you're building a simple Margherita or a fully loaded Supreme, this project gives you the chance to experiment with different combinations and see how each choice affects the total price.
 
+Features:
+
+User Input: Customize your pizza with options for size, toppings, and crust type.
+Dynamic Pricing: Calculates the total cost based on your selections, with each topping and pizza size affecting the final price.
+Simple Interface: A straightforward command-line interface that makes it easy to build and price your pizza.
+
+############### ############### ############### ###############
 
 
